@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">schoolbook</string>
+    <string name="Title">Мой учебник</string>
+    <string name="item">0</string>
+    <string name="itemLbl"> класс</string>
+    <string name="title_activity_by_class">Мой учебник</string>
+    <string name="title_activity_by_example">Мой учебник</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_example">Мой учебник</string>
+
+</resources>
